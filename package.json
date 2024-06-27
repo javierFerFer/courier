@@ -2,7 +2,7 @@
   "name": "courier",
   "version": "0.0.1",
   "description": "A simple http client made with electron + angular",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "homepage": "https://github.com/javierFerFer/courier",
   "author": {
     "name": "Javier Fernándex",
     "email": "javierferfer99@gmail.com"
